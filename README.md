@@ -4,7 +4,7 @@ It a very basic introduction of visualization using matplotlib and plotly expres
 
 This repository provides you with two files which are used for the visualization of the COVID-19 pandemic infection spread.
 
-One file has all the code written in it, while the other helps you practising the skill sand try to be innovative while performing analysis.
+One file has all the code written in it, while the other helps you practising the skills and try to be innovative while performing analysis.
 
 The data we have used is analyzed in almost real-time.
 
